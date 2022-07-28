@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "give-me-a-joke": "^0.5.1"
+    "underscore": "^1.13.4"
   }
 }
